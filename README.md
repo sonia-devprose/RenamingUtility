@@ -8,3 +8,5 @@ File in directory before renaming
 
 File in directory after renaming
 ![directory-view-afterrename](https://github.com/user-attachments/assets/634c158a-9320-4d62-ad82-cd7792a67eac)
+
+Note: Here, we are showing an example using zip files.
